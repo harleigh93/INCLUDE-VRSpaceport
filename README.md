@@ -14,47 +14,36 @@ INCLUDE is a campus-wide interdisciplinary undergraduate student experience to e
 
 
 # 2020-2021 INCLUDE Industry Mentors
---NASA
---NASA
---Dynetics
---Dynetics
--- Tom Acomb, AOA
+Robert Moreland (NASA), Diane Aloisio (Dynetics), Darrin Burnett (Dynetics), Tony Lindeman (Dynetics), and Tom Acomb (AOA). Special Thanks to Executive Chef Jens Dahlmann.
 
 
 # 2020-2021 INCLUDE Team Alpha Members
--- Anna Shipman, Project Manager, ISEEM
--- Hailey Simon, ISEEM
--- Rosie Cortelli, ISEEM/PY
--- Alana Flint, ISEEM
--- Andrew Atchley, Philosophy
--- Harleigh Bass, Animation
--- Elizabeth Berhow, Animation
--- Madison Travis, Marketing
+* Anna Shipman, Project Manager, ISEEM
+* Rosie Cortelli, ISEEM/PY
+* Alana Flint, ISEEM
+* Hailey Simon, ISEEM
+* Andrew Atchley, Philosophy
+* Harleigh Bass, Animation
+* Elizabeth Berhow, Animation
+* Madison Travis, Marketing
 
 
 # 2020-2021 Academic Mentors
--- Bryan Mesmer, ISEEM
--- Nicholas Loyd, ISEEM
--- Kristin Weger, Psychology
--- Vinny Argentina, Art
+Bryan Mesmer (ISEEM), Nicholas Loyd (ISEEM), Kristin Weger (Psychology), Vinny Argentina (Art & Animation)
 
 
 # CONTACT
-INCLUDE Team Alpha Website: TBA
-
-Harleigh Bass, VR Spaceport Programmer + Set Dressing (Classroom)
-Portfolio: https://harleighbass.artstation.com/ 
-
-Elizabeth Berhow, VR Spaceport Concept Art, Modeling & Texturing, Set Dressing (HUB)
-Portfolio: https://toobizzydrawing.artstation.com/ 
-
-Anna Shipman
-Hailey Simon
-Rosie Cortelli
-Alana Flint
-Andrew Atchley
-Madison Travis
+* INCLUDE Team Alpha Website: TBA
+* Harleigh Bass, VR Spaceport Programmer + Set Dressing (Classroom) || Portfolio: https://harleighbass.artstation.com/ 
+* Elizabeth Berhow, VR Spaceport Concept Art, Modeling & Texturing, Set Dressing (HUB) || Portfolio: https://toobizzydrawing.artstation.com/ 
+* Anna Shipman
+* Hailey Simon
+* Rosie Cortelli
+* Alana Flint
+* Andrew Atchley
+* Madison Travis
 
 
 
 "INCLUDE-VRSpaceport" © 2021 Harleigh Bass, Elizabeth Berhow
+Special Thanks to Vinny Argentina, for always believing in me and keeping my head on straight.
