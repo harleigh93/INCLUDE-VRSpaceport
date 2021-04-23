@@ -20,7 +20,7 @@ Public Executable of the **INCLUDE VR Spaceport Project** free for download. TBA
 * **Darrin Burnett** (Dynetics)
 * **Tony Lindeman** (Dynetics)
 * **Robert Moreland** (NASA)
-*Special Thanks to Executive Chef Jens Dahlmann, for taking time out of your busy schedule to talk to university students about supply-chain management; to Diane and Tony, for guiding us on airport development. And a big Special Thanks to Tom Acomb, for teaching us about telling an effective story.*
+* *Special Thanks to Executive Chef Jens Dahlmann, for taking time out of your busy schedule to talk to university students about supply-chain management; to Diane and Tony, for guiding us on airport development. And a big Special Thanks to Tom Acomb, for teaching us about telling an effective story.*
 
 
 # 2020-2021 INCLUDE Team Alpha Members
