@@ -1,5 +1,5 @@
 # INCLUDE-VRSpaceport
-Public Executable of the **INCLUDE VR Spaceport Project** free for download. TBA.
+Public Executable of the **INCLUDE VR Spaceport Project** free for download. The executable will be uploaded to this repository **April 28th, 2021 by 6pm CT.**
 ![HUB_Screenshot01](https://user-images.githubusercontent.com/43096972/115787657-2bc2d280-a388-11eb-9a2b-4c046cbba953.png)
 *Screenshot within Unreal Engine 4 of the Spaceport HUB, modeled and dressed by Elizabeth Berhow.*
 
