@@ -1,0 +1,135 @@
+"VR Spaceport" Virtual Reality Project in Unreal Engine 4
+====================================
+
+Copyright 2021 (c) Harleigh Bass, Elizabeth Berhow
+The University of Alabama in Huntsville
+UAH INCLUDE: Interdisciplinary Undergraduate Experience Fall 2020 - Spring 2021
+"Conceptualizing a Space Ecosystem"
+====================================
+
+UAH: https://www.uah.edu/
+INCLUDE Team Alpha Website: [TBA]
+Harleigh Bass: 	  https://harleighbass.artstation.com/
+Elizabeth Berhow: https://toobizzydrawing.artstation.com/
+====================================
+
+Following is a list of assets that are not pure Creative Commons 0 assets. All Creative Commons Attribution + more licenses used in the VR Spaceport project are below.
+
+
+Asset Packages Used:
+---
+Broadcast Studio by Warren Marshall (https://www.unrealengine.com/marketplace/en-US/product/bafae2f71777417c8864a4cca9f47f2d)
+
+Free Furniture Pack by Next Level 3d (https://www.unrealengine.com/marketplace/en-US/product/a4907129f69c44a892f76782489736ab)
+
+Modular Futuristic Sci Fi Library by ErikGames (https://www.unrealengine.com/marketplace/en-US/product/modular-futuristic-sci-fi-library)
+
+Science Laboratory by SilverTm (https://www.unrealengine.com/marketplace/en-US/product/science-laboratory)
+
+SciFi Hallway by Epic Games (https://www.unrealengine.com/marketplace/en-US/item/242746d1d3c94d3ba67ce7d6bb629fa8)
+
+Supermarket by mojtabamohammadi (https://www.unrealengine.com/marketplace/en-US/product/supermarket)
+
+Twinmotion Materials for Unreal Engine by Epic Games (https://www.unrealengine.com/marketplace/en-US/item/5dc474145fd644be85936af6d8fb4a91)
+
+Office Scene by Jaime Perez (https://www.unrealengine.com/marketplace/en-US/product/office-scene)
+
+
+
+
+Astronaut:
+---
+"Female Astronaut - White Suit" (https://skfb.ly/6X6wZ) by dannysgallegos is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+
+
+
+Program + Trailer Music:
+---
+"Clear Sky" by Finval (https://motionarray.com/royalty-free-music/clear-sky-594953/). Royalty Free Music.
+
+"Hi Tech Ident" by ChrisStudio (https://motionarray.com/royalty-free-music/hi-tech-ident-152036/). Royalty Free Music.
+
+"Race With Life" by KopinKop (https://motionarray.com/royalty-free-music/race-with-life-356806/). Royalty Free Music.
+
+
+
+
+Desks & Decor in Plant Activity Level:
+---
+"Cyberpunk Desk" (https://skfb.ly/6WFGr) by Cisco is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+"Desk Low-Poly" (https://skfb.ly/6RTZN) by Pedro Silva is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+"Aston Ceiling Lamp Satin Nickel - 56068" (https://skfb.ly/6A8xC) by Zuo Modern is licensed under CC Attribution-NonCommercial-NoDerivs (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+"Alcala Set Of 3 Round Mirrors Black - A12024" (https://skfb.ly/6UJEM) by Zuo Modern is licensed under CC Attribution-NonCommercial-NoDerivs (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+
+
+
+Misc:
+---
+"syringe" (https://skfb.ly/6WNXO) by schteppn is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+"Reception Desk proposal" (https://skfb.ly/6n8FJ) by sinapersia is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+
+
+
+NASA Experiment Inspirations:
+---
+"Growing Plants and Vegetables in a Space Garden" (https://www.nasa.gov/mission_pages/station/research/10-074.html) by Lori Meggs, AI Signal Research, Inc. NASA's Marshall Space Flight Center.
+
+"Growing Plants in Space" (https://www.nasa.gov/content/growing-plants-in-space). NASA.
+
+
+
+
+NASA Opportunity / Curiosity:
+---
+"NASA Opportunity Rover" (https://skfb.ly/6ROLn) by clgreene86 is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+
+
+
+Planets:
+---
+"Mercury" (https://skfb.ly/6TwFJ) by Akshat is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+"Venus" (https://skfb.ly/6TwFR) by Akshat is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+"Earth" (https://skfb.ly/6TwGG) by Akshat is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+"Moon" (https://skfb.ly/6TwGU) by Akshat is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+"Mars" (https://skfb.ly/6TwHo) by Akshat is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+"Jupiter - Free Downloadable Model" (https://skfb.ly/6zW68) by murilo.kleine is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+"Saturn" (https://skfb.ly/6TwHZ) by Akshat is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+"Uranus" (https://skfb.ly/6TwIN) by Akshat is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+"Neptune" (https://skfb.ly/6TwJ9) by Akshat is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+"Pluto" (https://skfb.ly/6TwJE) by Akshat is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+
+
+
+Plants:
+---
+"Coffee Sack Group Asset" (https://skfb.ly/6WNXZ) by ferofluid is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+Above asset "Coffee Sack Group Asset" was edited: All but one sack was removed. Coffee Bean texture was replaced with dirt texture in the game.
+
+"LettuceRomaine V1 3D Model" (https://free3d.com/3d-model/lettuceromaine-v1--988064.html) by printable_models. Personal Use License.
+
+
+
+
+Space Shuttles:
+---
+"Saturn V - NASA" (https://skfb.ly/6WMUR) by Stanley Creative is licensed under Creative Commons Attribution-NoDerivs (http://creativecommons.org/licenses/by-nd/4.0/).
+
+"Falcon 9 - SpaceX" (https://skfb.ly/6RIC9) by Stanley Creative is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
