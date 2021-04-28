@@ -1,6 +1,6 @@
 # INCLUDE-VRSpaceport
 Public Executable of the **INCLUDE VR Spaceport Project** free for download.
-![HUB_Screenshot01](https://user-images.githubusercontent.com/43096972/115787657-2bc2d280-a388-11eb-9a2b-4c046cbba953.png)
+![HUB_Render01](https://user-images.githubusercontent.com/43096972/116470259-c9128080-a838-11eb-8f83-a3c8360c60c5.png)
 *Screenshot within Unreal Engine 4 of the Spaceport HUB, modeled and dressed by Elizabeth Berhow.*
 
 # Project Description
@@ -65,7 +65,7 @@ Public Executable of the **INCLUDE VR Spaceport Project** free for download.
 # Feedback
 If you are able and willing, we'd love to hear if you experienced any bugs. The Google Forum is set to not collect email addresses: https://forms.gle/dtGaskc5ECNJNTgn8
 
-![Screenshots-VR_0003_Layer-15](https://user-images.githubusercontent.com/43096972/115787812-60cf2500-a388-11eb-97ab-845759d924d0.png)
+![Classroom_Render02](https://user-images.githubusercontent.com/43096972/116470279-d0d22500-a838-11eb-9664-7ce99ddec102.png)
 *Screenshot within Unreal Engine 4 of the Spaceport Classroom, dressed by Harleigh Bass.*
 
 
